@@ -1,6 +1,4 @@
 /vendor/
-.env
 /config.php
-/vendor/
 .env
 *.log
